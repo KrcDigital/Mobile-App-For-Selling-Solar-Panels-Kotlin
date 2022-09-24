@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462043141714",
+    "project_id": "strongsunny-f55b7",
+    "storage_bucket": "strongsunny-f55b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462043141714:android:ea1e7d282c7e62002f718b",
+        "android_client_info": {
+          "package_name": "com.krc.strongsunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462043141714-lq5kjho79q5hc6hgfefemhtkvlou6s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqrX1b6Z7P5geuljkt55AOJTVSI2N-Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462043141714-lq5kjho79q5hc6hgfefemhtkvlou6s0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462043141714-ksbsr1rt3ujaf84a59mioghgp7khk9ek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krc.strongsunny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
